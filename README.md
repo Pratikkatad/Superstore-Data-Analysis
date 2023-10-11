@@ -1,4 +1,8 @@
 # Superstore-Data-Analysis
 
 ## Description: 
-Welcome to the Superstore Retail Data Analysis Dashboard! This project aims to provide valuable insights to a new store manager by analyzing and interpreting sales data from a multi-department superstore. We will go through various stages of data operations, including extraction, cleaning, loading, and transformation, followed by data modeling to create a robust STAR schema for efficient analysis.
+
+## Explore the Interactive Dashboard:<a href="https://www.novypro.com/project/superstore-data-analysis-3" target="_blank">  Dashboard</a>
+
+## Dashboard:
+![Untitled video - Made with Clipchamp (2)](https://github.com/Pratikkatad/Superstore-Data-Analysis/assets/143333538/d42b8393-dffc-47c2-b558-7451dee03613)
