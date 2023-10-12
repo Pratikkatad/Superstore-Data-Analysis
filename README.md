@@ -3,7 +3,7 @@
 ## Description: 
 This project involves the analysis of a Superstore retail dataset to create a Power BI dashboard that provides insights to the store manager regarding sales, customers, and products.
 
-## Explore the Interactive Dashboard:<a href="https://www.novypro.com/project/superstore-data-analysis-3" target="_blank">  Dashboard</a>
+## Explore the Interactive Dashboard:<a href="https://www.novypro.com/project/superstore-data-analysis-power-bi" target="_blank">  Dashboard</a>
 
 ## Dashboard:
 ![Untitled video - Made with Clipchamp (2)](https://github.com/Pratikkatad/Superstore-Data-Analysis/assets/143333538/d42b8393-dffc-47c2-b558-7451dee03613)
